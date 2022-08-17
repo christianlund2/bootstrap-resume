@@ -15,7 +15,7 @@
 }
 
 .bg-color-work-history {
-    background-color: #9b59b6;
+    background-color: #f4f4f4;
 }
 
 .bg-color-contact {
@@ -42,7 +42,7 @@
     background-color: #1c4a6c;
 }
 
-.ui-menu-color-interests {
+.ui-menu-color-projects {
     background-color: #e74c3c;
 }
 
@@ -305,14 +305,12 @@ footer {
 /* ----------------------------------------Work History */
 
 .history-heading {
-    color: #fafafa;
     margin-bottom: 50px;
 }
 
 .timeline-item {
     padding: 4em 2em 0em 2em;
     position: relative;
-    color: #fafafa;
     border-left: 1px solid;
 }
 
